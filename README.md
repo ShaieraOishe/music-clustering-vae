@@ -43,7 +43,7 @@ Note: One file (jazz.00054.wav) failed during preprocessing, reducing the total 
 
 ```bash
 git clone <repository-url>
-cd Chotto
+cd Project
 ```
 
 ### Step 2: Create and Activate Virtual Environment
@@ -76,7 +76,7 @@ This will install all required packages including:
 ## Project Structure
 
 ```
-Chotto/
+Project/
 ├── data/
 │   ├── raw/                    # Original audio files
 │   │   ├── bangla/            # BanglaBeats dataset
@@ -108,7 +108,6 @@ Chotto/
 ├── run_phase2_evaluation.py  # Phase 2 evaluation
 ├── run_phase3_evaluation.py  # Phase 3 evaluation
 ├── requirements.txt          # Project dependencies
-├── final_report.md          # Complete project report
 └── README.md                # This file
 ```
 
