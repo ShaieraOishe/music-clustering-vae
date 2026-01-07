@@ -364,14 +364,5 @@ python train_conv_vae.py         # Phase 2 (~8 min)
 python train_beta_vae.py         # Phase 3 (~25 min for all 3 betas)
 ```
 
-## Project Documentation
 
-This repository includes comprehensive documentation:
-
-- **README.md** (this file): Setup instructions, running guide, and quick start
-- **final_report.md**: Complete academic report with methodology, results, and analysis
-  - Detailed explanation of all methods and algorithms
-  - Comprehensive results across all 3 phases
-  - Discussion of findings and limitations
-  - Full references and future work
 
