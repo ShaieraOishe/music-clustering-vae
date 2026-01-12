@@ -364,5 +364,5 @@ python train_conv_vae.py         # Phase 2 (~8 min)
 python train_beta_vae.py         # Phase 3 (~25 min for all 3 betas)
 ```
 
-
+Overleaf Report- https://www.overleaf.com/read/kpzckjvwcrbn#10900d 
 
